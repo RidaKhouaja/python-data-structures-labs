@@ -1,0 +1,26 @@
+[
+    {
+        "nom": "Khouaja",
+        "prenom": "Rida",
+        "notes": {
+            "Maths": 18.0,
+            "Physique": 14.0,
+            "Informatique": 20.0,
+            "Anglais": 12.0,
+            "Français": 12.0
+        },
+        "moyenne": 15.2
+    },
+    {
+        "nom": "khouaja",
+        "prenom": "mehdi",
+        "notes": {
+            "Maths": 16.0,
+            "Physique": 14.0,
+            "Informatique": 18.0,
+            "Anglais": 12.0,
+            "Français": 10.0
+        },
+        "moyenne": 14.0
+    }
+]
