@@ -1,0 +1,36 @@
+[
+    {
+        "numero": "CPT001",
+        "titulaire": "rida",
+        "solde": 500.0,
+        "historique": [
+            {
+                "type": "Ouverture de compte",
+                "montant": 500.0,
+                "date": "2026-06-21 17:50:05"
+            }
+        ]
+    },
+    {
+        "numero": "CPT002",
+        "titulaire": "Rida Khouaja",
+        "solde": 8000.0,
+        "historique": [
+            {
+                "type": "Ouverture de compte",
+                "montant": 5000.0,
+                "date": "2026-06-21 18:19:49"
+            },
+            {
+                "type": "Depot",
+                "montant": 5000.0,
+                "date": "2026-06-21 18:21:27"
+            },
+            {
+                "type": "Retrait",
+                "montant": 2000.0,
+                "date": "2026-06-21 18:24:34"
+            }
+        ]
+    }
+]
