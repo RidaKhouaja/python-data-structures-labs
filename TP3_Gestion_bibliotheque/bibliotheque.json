@@ -1,0 +1,22 @@
+[
+    {
+        "isbn": "490456",
+        "titre": "football",
+        "auteur": "rida khouaja",
+        "disponible": true,
+        "emprunts": [
+            {
+                "emprunteur": "kh rida",
+                "date_emprunt": "2026-06-25",
+                "date_retour": "2026-06-25"
+            }
+        ]
+    },
+    {
+        "isbn": "556886",
+        "titre": "Python",
+        "auteur": "mohamed",
+        "disponible": true,
+        "emprunts": []
+    }
+]
